@@ -1,4 +1,4 @@
-# MyZip
+# MyZipArchiver
 
 The purpose of this project is create an equivalent of Zip archiver to better learn C#, dotnet and practice algorithms.
 

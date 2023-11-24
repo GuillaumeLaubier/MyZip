@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyZip", "MyZip\MyZip.csproj", "{179430AA-1DED-4D71-9096-5CBF5D55BFA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyZipArchiver", "MyZipArchiver\MyZipArchiver.csproj", "{A2710DD7-29C1-4E21-BC97-686E212AFEE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{179430AA-1DED-4D71-9096-5CBF5D55BFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{179430AA-1DED-4D71-9096-5CBF5D55BFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{179430AA-1DED-4D71-9096-5CBF5D55BFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2710DD7-29C1-4E21-BC97-686E212AFEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2710DD7-29C1-4E21-BC97-686E212AFEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2710DD7-29C1-4E21-BC97-686E212AFEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2710DD7-29C1-4E21-BC97-686E212AFEE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
