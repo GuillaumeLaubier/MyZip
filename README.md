@@ -10,7 +10,7 @@ The following specification and advancement are my free interpretation of a Zip 
 
 The console application in charge of archiving files.
 
-[Click here for more details.](/MyZip/README.md)
+[Click here for more details.](/MyZip)
 
 ## MyUnZip console application
 
