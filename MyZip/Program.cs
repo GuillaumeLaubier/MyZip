@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using MyZip;
+using MyZipArchiver;
 
 if (args.Length == 0)
 {
@@ -9,4 +10,6 @@ if (args.Length == 0)
 else
 {
     Console.WriteLine("MyZip Hello World!");
+
+    var test = new Class1();
 }
